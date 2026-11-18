@@ -11,10 +11,6 @@ dist/
 *.egg-info/
 
 # Локальные данные и настройки
-*.db
-*.db-*
-*.sqlite
-*.sqlite3
 .env
 .env.*
 !.env.example
